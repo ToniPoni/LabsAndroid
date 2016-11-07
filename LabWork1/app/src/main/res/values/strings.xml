@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab Work 2</string>
+    <string name="prompt_string">Как вас зовут?</string>
+    <string name="prompt_string1">Name</string>
+    <string name="hi">Поздороваться</string>
+    <string name="text">This application created by Anton Kuzmin</string>
+    <string name="about_activity_title">О программе</string>
+    <string name="About_Programm">About Programm</string>
+    <string name="created_by_anton_kuzmin">Created by Anton Kuzmin</string>
+    <string name="ok">OK</string>
+</resources>

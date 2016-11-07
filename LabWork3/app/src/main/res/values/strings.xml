@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LabWork3</string>
+    <string name="String">Ускорение:</string>
+    <string name="string2">Освещённость:</string>
+    <string name="string3">Приближение:</string>
+    <string name="string4">Магнитное поле:</string>
+    <string name="no_sensor">Нет датчика.</string>
+    <string name="three_dimension_value_format">X:%1$.2f, Y:%2$.2f, Z:%3$.2f, всего: %4$.2f</string>
+
+
+</resources>
